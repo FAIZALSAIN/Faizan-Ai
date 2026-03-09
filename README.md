@@ -1,80 +1,85 @@
-<p align='center'>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="60" width="70%">
-        𝐅𝐀𝐈𝐙𝐀𝐍-𝐌𝐃
-<p align='center'>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="70" width="80%">
-<p align='center'>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="80" width="90%">
-
- 〘 𝐅𝐀𝐈𝐙𝐀𝐍-𝐌𝐃 〙
- 
-> ✨ *Ultra Pro Max WhatsApp Bot* ✨  
-<a href="https://github.com/Faizan-MD-BOTZ"><img title="Author" src="https://img.shields.io/badge/FAZI-MD-black?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@arslanmdofficial"><img title="Author" src="https://img.shields.io/badge/YOUTUBE SUBSCRIBE-red?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/923266105873"><img title="Author" src="https://img.shields.io/badge/Contact Me-black?style=for-the-badge&logo=whatsapp"></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center">
-  <img src="https://files.catbox.moe/ejufwa.jpg" alt="𝐅𝐀𝐈𝐙𝐀𝐍-𝐌𝐃" width="800" style="border-radius:25px;box-shadow:0 0 30px violet;"/>
-</h1>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center">
-  <span style="background: linear-gradient(to right, #ff00cc, #3333ff, #00ffcc, #33ff33, #ffcc00); 
-               -webkit-background-clip: text; 
-               color: transparent; 
-               font-size: 45px; 
-               font-weight: bold;">
-    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-    ✨ 𝐅𝐀𝐈𝐙𝐀𝐍-𝐌𝐃 ✨
-    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  </span>
-</h1>
-
-<p align="center">
-  <b>A multi-device WhatsApp bot created & maintained by <span style="color:#00FFFF">𝐅𝐀𝐈𝐙𝐀𝐍-𝐌𝐃</span> 🚀</b>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=180&section=header&text=FKxGHOST%20MD%20WHATSAPP%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/><p align="center">
+<a href="#"><img title="Followers" src="https://img.shields.io/badge/Owner-FKxGHOST--MD-blue?style=flat-square"></a>
+<a href="#"><img title="Stars" src="https://img.shields.io/badge/Bot%20Type-Multi%20Device-green?style=flat-square"></a>
+<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-1.0.0-orange?style=flat-square"></a>
+</p>«CURRENT BOT VERSION ➜ "1.0.0 ⚡"»
 
 ---
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## ⭐ 𝙁𝙊𝙍𝙆 & 𝙎𝙏𝘼𝙍
-<p align="center">
-  <a href="https://github.com/Faizan-MD-BOTZ/Faizan-Ai/fork">
-    <img src="https://img.shields.io/badge/Fork-Repo-ff00ff?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/Faizan-MD-BOTZ/Faizan-Ai/fork">
-    <img src="https://img.shields.io/github/stars/FAIZAN-AI/FAIZAN-AI?style=for-the-badge&color=gold&logo=github" />
-  </a>i
-</p>
-<p align="center">💡 Don’t forget to <b>Fork</b> & <b>Star ⭐</b> this repo before using!</p>
+
+DONT FORGET TO FORK 🍴 & STAR 🌟 REPO 😇
 
 ---
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## 🔑 𝙂𝙀𝙏 𝙎𝙀𝙎𝙎𝙄𝙊𝙉
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=00F7FF&center=true&width=1200&height=100&lines=THANKS%20FOR%20CHOOSING%20FKxGHOST-MD;MULTI%20DEVICE%20WHATSAPP%20BOT;CREATED%20BY%20FK%20SAIN" />
+</a>---
+
 <p align="center">
-  <a href="https://paring-site-44t7.onrender.com/">
-<p align="center">
-  <a href="https://paring-site-44t7.onrender.com/">
-    <img src="https://img.shields.io/badge/Get-Session_ID-00BFFF?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
-<p align="center">📲 Click above button to generate your <b>Session ID</b> (required for deployment).</p>
+<img src="https://files.catbox.moe/6m9oxw.jpg" width="350"/>
+</p>---
+
+🍴 FORK THIS REPOSITORY
+
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/FORK-FKxGHOST--MD-purple?style=for-the-badge&logo=github">
+</a>---
+
+🔑 GET SESSION ID
+
+Paste your WhatsApp number with country code.
+
+Example:
+
+923XXXXXXXXX
 
 ---
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## 🚀 𝘿𝙀𝙋𝙇𝙊𝙔 𝙉𝙊𝙒
-<p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/Faizan-MD-BOTZ/Faizan-Ai">
-    <img src="https://img.shields.io/badge/Deploy-Heroku-7952B3?style=for-the-badge&logo=heroku&logoColor=white" />
-  </a>
-</p>
-<p align="center">⚡ Deploy your bot on <b>Heroku</b> easily.</p>
+
+🚀 DEPLOY OPTIONS
+
+🟣 RENDER
+
+<a href="https://dashboard.render.com/web/new">
+<img src="https://img.shields.io/badge/Deploy-Render-black?style=for-the-badge&logo=render">
+</a>🟠 RAILWAY
+
+<a href="https://railway.app/new">
+<img src="https://img.shields.io/badge/Deploy-Railway-orange?style=for-the-badge&logo=railway">
+</a>🔵 REPLIT
+
+<a href="https://replit.com/">
+<img src="https://img.shields.io/badge/Deploy-Replit-blue?style=for-the-badge&logo=replit">
+</a>---
+
+📢 OFFICIAL LINKS
+
+💬 WhatsApp Group
+
+https://chat.whatsapp.com/DO6nSWoz7ZbChnxHwRmv5S
+
+📢 WhatsApp Channel
+
+https://whatsapp.com/channel/0029VbBOcrNBadmXo2Nqfg2Y
+
+📺 YouTube
+
+https://youtube.com/@dark_f56
+
+📞 Contact Owner
+
+https://api.whatsapp.com/send?phone=923443679346
 
 ---
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## 📡 𝙒𝙃𝘼𝙏𝙎𝘼𝙋𝙋 𝘾𝙊𝙉𝙉𝙀𝘾𝙏𝙎
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<p align="center">
-  <a href="https://whatsapp.com/channel/0029VbBdQyRBPzjUMvx8Fb2g">
-    <img src="https://img.shields.io/badge/Join-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+⚠️ DISCLAIMER
+
+This bot is made for educational purposes only.
+Do not misuse the bot.
+
+---
+
+<h3 align="center">
+MADE WITH ❤️ BY FKxGHOST-MD
+</h3>    <img src="https://img.shields.io/badge/Join-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://api.whatsapp.com/send?phone=+923408576674&text=➪𝐇𝐄𝐘𓆩🐍🍷🌹'">
     <img src="https://img.shields.io/badge/Contact-Owner-ff0000?style=for-the-badge&logo=whatsapp&logoColor=white" />
